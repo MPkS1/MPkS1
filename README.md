@@ -1,179 +1,268 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=4" />
+<img width="100%" alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0906,50:3D2B0F,100:0B0906&height=210&section=header&text=M.%20Purushottama%20Kumar&fontSize=38&fontColor=F5E6C8&fontAlignY=36&desc=SYSTEM%20ONLINE%20·%20AI%20Researcher%20·%20Systems%20Builder%20·%20Idea%20Engineer&descAlignY=58&descSize=15&animation=fadeIn&stroke=FFB000&strokeWidth=2" />
 
-<pre>
-██████╗  ██████╗  ██████╗ ████████╗██╗███╗   ██╗ ██████╗ 
-██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██║████╗  ██║██╔════╝ 
-██████╔╝██║   ██║██║   ██║   ██║   ██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║   ██║   ██║   ██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝╚██████╔╝   ██║   ██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-</pre>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&pause=1200&color=FFB000&center=true&vCenter=true&width=820&lines=Booting+PurushottamaOS...;Loading+rust+python+and+ai+modules;Compiling+ideas+into+working+code;Player+One+has+entered+the+game)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=400&color=39FF14&center=true&vCenter=true&width=750&lines=%3E+POST...+checking+hardware...+OK;%3E+mounting+%2Fdev%2Fbrain+...+OK;%3E+loading+kernel+modules%3A+rust%2C+python%2C+kotlin+...+OK;%3E+injecting+driver%3A+ai_copilot.sys+...+OK;%3E+init+process%3A+purushottama+...+READY;%3E+welcome+back%2C+player.)](https://git.io/typing-svg)
+<br/>
+
+`$ controller_1 connected` → **Player: M. Purushottama Kumar**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FFB000?style=for-the-badge&logoColor=white)](https://portfolio-lilac-three-80.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tech-purushottam/)
+[![GitHub](https://img.shields.io/badge/GitHub-MPkS1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MPkS1)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddulapurushottama@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## `> load save_file.dat`
+## 🧬 `whoami`
 
-```yaml
-character:
-  name: M. Purushottama Kumar
-  class: AI Researcher / Systems Engineer / Idea Engineer
-  guild: Sri Vasavi Engineering College — CSE
-  level: B.Tech, GPA 8.20
-  server_region: Andhra Pradesh, India 🇮🇳
-  playstyle: >
-    Doesn't grind tutorials. Picks a question that shouldn't have
-    an answer yet ("can I build an OS from bare metal?"), then
-    recruits AI as a party member and builds until it does.
-  passive_ability: "Turns 'what if?' into a repo before the doubt catches up."
+```rust
+struct Player {
+    handle:    &'static str,
+    class:     &'static str,
+    studying:  &'static str,
+    base:      &'static str,
+    co_pilot:  &'static str,
+}
+
+const ME: Player = Player {
+    handle:   "M. Purushottama Kumar",
+    class:    "AI Researcher / Systems Builder / Idea Engineer",
+    studying: "B.Tech CSE — Sri Vasavi Engineering College",
+    base:     "Andhra Pradesh, India 🇮🇳",
+    co_pilot: "AI — for velocity, never for the vision",
+};
+```
+
+```
+ACADEMIC.pwr      [████████████████░░░░]  8.20 / 10.00   (that one is a real stat)
+DEBUG.patience    [RENEWS ON RESTART]
+SLEEP.schedule    [OPTIONAL]
+CURIOSITY.level   [BUFFER OVERFLOW]
+```
+
+---
+
+## 📜 `cat manifesto.md`
+
+> I don't just study Computer Science — I build the things Computer Science dreams about.
+>
+> Every project on this page started as one thought: *"What if I could build that?"* Then I picked up Rust, Python, Kotlin, Java, or JavaScript — and made it real. AI is my co-pilot, not my ghostwriter: it helps me move faster, but the ideas, the vision, and the drive are mine.
+
+---
+
+## 🌳 `tree skills/`
+
+```
+~/purushottama/skills
+├── systems/
+│   ├── rust                    # learning to talk to silicon directly
+│   ├── uefi + bootloaders
+│   ├── qemu
+│   └── memory-mgmt + ipc       → shipped in: AIOS
+│
+├── ai-ml/
+│   ├── tensorflow
+│   ├── opencv
+│   ├── yolov8
+│   └── gemini-api              → shipped in: QShield AI, Jump Analyzer
+│
+├── web-mobile/
+│   ├── react + node.js
+│   ├── kotlin + jetpack-compose
+│   ├── flask
+│   └── firebase                → shipped in: Sports Evaluate, MERN Chat, LMS
+│
+└── tools-cloud/
+    ├── git
+    ├── google-cloud
+    └── supabase
+
+4 directories · 400+ leetcode/gfg problems solved clearing the path
 ```
 
 <details>
-<summary><b>📜 read character backstory</b></summary>
+<summary>🎒 open inventory (badge view)</summary>
+
 <br/>
 
-I don't treat AI like a vending machine for code, and I don't treat it like magic either. It's a **party member** — good at research, architecture drafts, and catching my blind spots. The quest design, the "why does this matter," the debugging at 2am when the kernel triple-faults — that's still on me. Every repo below is proof I shipped it, not just prompted it.
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Web & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Systems & Tools**
+
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </details>
 
 ---
 
-## `> skill_tree --render`
+## 🤝 `party --list`
 
 ```
-                              [ IDEA ENGINE ]
-                                    |
-        ┌───────────────┬──────────┼──────────┬───────────────┐
-        ▼               ▼          ▼          ▼               ▼
-   [ SYSTEMS ]     [ AI / ML ]  [ MOBILE ]  [ WEB ]      [ SECURITY ]
-     Rust ★★★★☆    TensorFlow★★★★☆ Kotlin★★★☆☆ React★★★☆☆   Threat detect★★★☆☆
-     UEFI  ★★★☆☆    OpenCV   ★★★★☆ Compose★★★☆☆ Node ★★★☆☆   Auth systems ★★☆☆☆
-     QEMU  ★★★☆☆    YOLOv8   ★★★☆☆ Firebase★★★☆☆ Flask★★★★☆   Ethical hacking ★★☆☆☆
-        │               │          │          │               │
-        ▼               ▼          ▼          ▼               ▼
-   [ BOSS: AIOS ]  [ BOSS: QShield ] [ BOSS: SportsEval ] ...currently grinding XP
+IDEA → CO-OP WITH AI → BUILD → SHIP → REPEAT
+        (this loop never fully exits)
 ```
 
-<div align="center">
+AI doesn't replace the developer — it amplifies what the developer imagines. Every build on this profile was **conceived by me**, **researched with AI**, **architected in collaboration with AI**, and **built, debugged & shipped by me.**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</div>
+| Ally | Role in the party |
+|---|---|
+| 🧠 Claude | Complex systems & architecture |
+| 🗺️ ChatGPT | Architecture design |
+| ⚔️ GitHub Copilot | Code generation, fast |
+| 📖 Google Gemini | Research & docs |
 
 ---
 
-## `> quest_log --active --completed`
+## 🕹️ `levels --select`
 
-<div align="center">
+| # | Level | Difficulty | Status | Party (stack) |
+|---|---|---|---|---|
+| 01 | [AIOS — Rust OS](https://github.com/MPkS1/AIOS) | ★★★★★ | 🔥 boss fight in progress | Rust · UEFI · QEMU |
+| 02 | [QShield AI](https://github.com/MPkS1/squid_game_73) | ★★★★☆ | ✅ cleared | Python · FastAPI · Gemini |
+| 03 | [Sports Evaluate — Android](https://github.com/MPkS1/sports-evaluate-android) | ★★★★☆ | ✅ cleared | Kotlin · Compose · Firebase |
+| 04 | [Vertical Jump Analyzer](https://github.com/MPkS1/vertical-jump-analyzer) | ★★★☆☆ | ✅ cleared | Python · TensorFlow · MoveNet |
+| 05 | [MERN Chat App](https://github.com/MPkS1/mern-chat-app-master) | ★★★☆☆ | ✅ cleared | React · Socket.io · MongoDB |
+| 06 | Elevate Skills LMS | ★★★☆☆ | 🔧 building | Python · Flask · Supabase |
 
-| Quest | Difficulty | Status | Loot (Stack) | Boss Description |
-|---|:---:|:---:|---|---|
-| 🖥️ **[AIOS — Rust OS](https://github.com/MPkS1/AIOS)** | ★★★★★ | 🔥 In Progress | Rust, UEFI, QEMU | Custom x86_64 kernel with AI runtime, memory mgmt & IPC — built from raw silicon up |
-| 🛡️ **[QShield AI](https://github.com/MPkS1/squid_game_73)** | ★★★★☆ | ✅ Cleared | Python, FastAPI, Gemini | Multi-engine phishing detector with quantum risk scoring |
-| 📱 **[Sports Evaluate](https://github.com/MPkS1/sports-evaluate-android)** | ★★★★☆ | ✅ Cleared | Kotlin, Compose, Firebase | SIH 2025 prototype — OCR, face verify, jump analytics |
-| 🏋️ **[Vertical Jump Analyzer](https://github.com/MPkS1/vertical-jump-analyzer)** | ★★★☆☆ | ✅ Cleared | Python, TensorFlow, MoveNet | Real-time pose detection → explosive strength metrics |
-| 💬 **[MERN Chat App](https://github.com/MPkS1/mern-chat-app-master)** | ★★★☆☆ | ✅ Cleared | React, Socket.io, MongoDB | Real-time full-stack chat, JWT auth, Zustand state |
-| 📚 **Elevate Skills LMS** | ★★★☆☆ | 🔧 Crafting | Python, Flask, Supabase | Full-stack learning platform, role-based analytics |
-
-</div>
-
----
-
-## `> achievements --unlocked`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">🥇<br/><b>Top 10 Finalist</b><br/><sub>AVINA Hack Overflow 2023<br/>(out of 50+ teams)</sub></td>
-<td align="center" width="200">🎮<br/><b>Loot Drop: Google Swag</b><br/><sub>Google Arcade 2025<br/>Cohort 2</sub></td>
-<td align="center" width="200">🏗️<br/><b>National Prototype</b><br/><sub>SIH 2025<br/>Sports Evaluate App</sub></td>
-<td align="center" width="200">⚔️<br/><b>400+ Bosses Slain</b><br/><sub>LeetCode + GFG<br/>Arrays · Graphs · DP · Trees</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> dev_log.txt --tail`
-
-```diff
-+ [ideology] AI doesn't replace the developer — it removes the boring
-+ friction between "I have an idea" and "I have a prototype." The
-+ imagination, the judgment calls, the will to debug it at 2am — 
-+ that part isn't outsourceable, and I don't want it to be.
-
-+ [method] Every repo here followed the same loop:
-+   idea -> research w/ AI -> architecture w/ AI -> build & debug (me)
-+   -> ship. I use Claude for complex systems, ChatGPT for architecture
-+   sketches, Copilot for boilerplate, Gemini for research. None of
-+   them decide what gets built. I do.
-
-- [old belief] "Real devs don't use AI."
-+ [current belief] Real devs know exactly which 20% they can't delegate.
-```
-
----
-
-## `> world_map --stats`
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MPkS1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPkS1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=MPkS1&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
-</div>
-
----
-
-## `> upcoming_dlc --roadmap`
-
-```
-[ SEASON 2 — IN DEVELOPMENT ]
-
-  ⬡ Project Astra ............. space-sim: launch vehicle + satellite + rover + drone + AI mission control
-  ⬡ AI Teacher Platform ........ conversational, personalized programming tutor
-  ⬡ Aqua Sentinel .............. autonomous IoT water-surface cleaning robot
-  ⬡ BhashaSetu .................. offline, voice-first translator for Indian languages
-  ⬡ SmartLock BT ................ Bluetooth-secured anti-theft hardware lock
-  ⬡ KhetAI ...................... crop monitoring + precision farming recommendations
-```
-
----
-
-## `> multiplayer --invite`
-
-<div align="center">
-
-**Open to co-op. Send an invite:**
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-enter_world-39FF14?style=for-the-badge&labelColor=0d1117)](https://portfolio-lilac-three-80.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-tech--purushottam-39FF14?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/tech-purushottam/)
-[![GitHub](https://img.shields.io/badge/GITHUB-MPkS1-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14)](https://github.com/MPkS1)
-[![Email](https://img.shields.io/badge/EMAIL-send_message-39FF14?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=39FF14)](mailto:maddulapurushottama@gmail.com)
+<details>
+<summary>📜 open full quest log (lore & loot)</summary>
 
 <br/>
 
+**01 · AIOS — the final boss**
+A custom x86_64 operating system, built from bare metal: its own UEFI bootloader, memory management, IPC, and an AI runtime living inside the kernel. No tutorial level for this one.
+
+**02 · QShield AI**
+A multi-engine phishing detector wired through FastAPI, with Gemini scoring "quantum risk" on every URL that walks in.
+
+**03 · Sports Evaluate (Android)** — *SIH 2025 prototype*
+OCR, face verification, and jump analytics in one Kotlin + Jetpack Compose app, backed by Firebase.
+
+**04 · Vertical Jump Analyzer**
+Real-time pose detection with TensorFlow + MoveNet, turning a webcam feed into explosive-strength metrics.
+
+**05 · MERN Chat App**
+Real-time, full-stack chat with JWT auth and Zustand state, running on React, Socket.io, and MongoDB.
+
+**06 · Elevate Skills LMS**
+A full-stack learning platform with role-based analytics — Python, Flask, and Supabase, currently mid-build.
+
+</details>
+
+---
+
+## 🏆 `trophies --unlocked`
+
+> 🥇 **[EPIC] Top 10 Finalist** — AVINA Hack Overflow 2023, out of 50+ competing teams
+>
+> 🎮 **[RARE] Google Swag Drop** — Google Arcade 2025, Cohort 2
+>
+> 💻 **[GRINDING] 400+ Problems Cleared** — LeetCode & GeeksforGeeks — Arrays, Graphs, DP, Trees, OS, DBMS
+>
+> 🏗️ **[SHIPPED] SIH 2025 Prototype** — Sports Evaluate Android App
+
+---
+
+## 📈 `stats --leaderboard`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPkS1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0906&title_color=FFB000&text_color=F5E6C8&icon_color=FFB000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPkS1&layout=compact&hide_border=true&bg_color=0B0906&title_color=FFB000&text_color=F5E6C8"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MPkS1&hide_border=true&background=0B0906&ring=FFB000&fire=FFB000&currStreakNum=F5E6C8&sideNums=F5E6C8&currStreakLabel=F5E6C8&sideLabels=F5E6C8&dates=A8895A)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📌 `quests --available`
+
+| Bounty | Brief | Reward |
+|---|---|---|
+| 🛰️ Project Astra | Full space-exploration sim — launch vehicle, satellite, rover, drone & AI mission control | +Aerospace XP |
+| 🧠 AI Teacher Platform | Personalized, conversational tutor for learning to code | +EdTech XP |
+| 🤖 Water-Surface Cleaning Bot | Autonomous IoT robot for environmental cleanup | +Robotics XP |
+| 🗣️ Indian Language Translator | Offline, voice-first, accessibility-driven | +Impact XP |
+| 🔒 Bluetooth Smart Lock | Hardware-meets-mobile anti-theft system | +Hardware XP |
+| 🌾 Smart Agriculture AI | Crop monitoring + precision-farming recommendations | +AgriTech XP |
+
+*Unclaimed, not abandoned. Check back.*
+
+---
+
+## ⬇️ `pull --queue`
+
 ```
-> saving world state ... done
-> session paused. thanks for stopping by.
+$ skillctl pull --queue
+
+systems/advanced-rust-os-patterns      [PULLING]
+systems/uefi-and-virtual-memory        [PULLING]
+android/jetpack-compose-advanced       [PULLING]
+android/kotlin-coroutines-mlkit        [PULLING]
+ai-ml/deep-learning-nlp-cv-at-scale    [PULLING]
+cloud/aws-azure-gcp-serverless         [PULLING]
+security/ethical-hacking-authsec       [PULLING]
+robotics/ros-arduino-raspberrypi       [PULLING]
+
+8 packages queued. none of them will ever say [DONE] — that's the job.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:000000&height=4" />
+---
+
+## 🎮 `connect --coop`
+
+Got an idea, a bug worth squashing, or a system worth architecting? I'm always up for a session.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FFB000?style=for-the-badge&logoColor=white)](https://portfolio-lilac-three-80.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Send_a_Party_Invite-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddulapurushottama@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-tech--purushottam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tech-purushottam/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0906,50:3D2B0F,100:0B0906&height=130&section=footer&text=Game%20Saved%20·%20See%20You%20Next%20Commit&fontSize=19&fontColor=FFB000&animation=fadeIn&stroke=FFB000&strokeWidth=2" />
+
+**"The best way to predict the future is to build it — one commit at a time."**
+
+⭐ *A star costs you nothing and gives me +1 karma. Fair trade.*
 
 </div>
